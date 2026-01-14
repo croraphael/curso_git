@@ -1,1 +1,1 @@
-Praticando git clone
+Praticando git remove
